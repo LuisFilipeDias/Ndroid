@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <string name="drawer_close">drawer_close</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="title_activity_fetch_database">title_activity_fetch_database</string>
+    <string name="title_activity_main">title_activity_main</string>
+    <string name="title_activity_menu">title_activity_menu</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Fragment1">Fragment1</string>
+    <string name="Fragment2">Fragment2</string>
+    <string name="Fragment3">Fragment3</string>
+    <string name="hello_world">Hello</string>
+    <string name="Fragment1">Fragment1</string>
+    <string name="menu_settings">Definições</string>
+    
+    <string name="app_name">eMenu</string>
+    
+</resources>
